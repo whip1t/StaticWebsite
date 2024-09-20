@@ -1,0 +1,73 @@
+body { 
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px
+
+}
+.gray { 
+    position: relative;
+    background: #000000; 
+    height: 100vh;
+    width: 100vw; 
+
+
+
+    
+}
+.orange{
+    background: orange;
+    height: 300px;
+    width: 700px; 
+    position: relative; 
+    left: 20%;
+    bottom: 100px; 
+    background-image: url("https://video01.alibaba.com/vod-icbu/4f4e1c368ac918af/ee88e0eafea0af9a/20240607_256c1b0424662d5c_466629347829_mp4_264_hd_unlimit_taobao.mp4?w=1280&h=720&e=hd&t=2103270717266855302158098e0f70&b=icbu_video&p=icbu_video_icbu_vod_publish&tr=mp4-264-hd-unlimit&bizCode=icbu_vod_video");
+    background-size:cover;
+}
+.teal{
+    background: teal;
+    height: 300px;
+    width: 700px; 
+    position: fixed; 
+    left: 0%;
+    top: 50%;
+    margin-left: 510px;
+    background-image: url("");
+    background-size:cover;
+}
+
+
+
+
+
+.red{
+    background: red;
+    height: 300px;
+    width: 300px; 
+    position: fixed; 
+    right: 20%;
+    bottom: 100px; 
+    background-image: url;
+
+
+}
+.yellow{
+    position: relative;
+    background: yellow;
+    height: 80px;
+    width: 80px;
+    left: 500px; 
+    background-image: url
+
+}
+.green{
+    position: fixed;
+    background: green;
+    height: 500px;
+    width: 800px;
+    right: 0px; 
+    top: 0%;
+    background-image: url
+
+}

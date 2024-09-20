@@ -1,0 +1,63 @@
+body { 
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px
+
+}
+.gray { 
+    position: relative;
+    background: #ffffff; 
+    height: 100vh;
+    width: 100vw; 
+}
+
+.teal{
+    background: rgb(255, 255, 255);
+    height: 300px;
+    width: 700px; 
+    position: fixed; 
+    left: 0%;
+    top: 50%;
+    margin-left: 510px;
+    background-image: url("https://media.sweetwater.com/m/products/image/4a5426f8f0ZRgAhWdmtG1uuR5ktPCIhH6qLLFMHT.jpg?quality=82&width=750&ha=4a5426f8f0155b44");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.yellow{
+    position: relative;
+    background: rgb(255, 255, 255);
+    height: 500px;
+    width: 500px;
+    left: 500px; 
+    top: 25px;
+    background-image: url("https://media.sweetwater.com/m/products/image/c85b9cd50bd7Xbe4xM4ywdBP6anMdeQbVD6pr9RA.jpg?quality=82&height=750&ha=c85b9cd50bb111d2");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.green{
+    position: absolute;
+    background: rgb(255, 255, 255);
+    padding: 5px;
+    margin-right: 0%;
+    height: 600px;
+    width: 350px;
+    right: 21.5%; 
+    bottom: 20%;
+    background-image: url("710Qxu5WpuL._AC_SX679_.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+a .gray .yellow {
+    position: absolute;
+    height: 500px;
+    width: 500px;
+}

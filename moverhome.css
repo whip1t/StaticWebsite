@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+    margin: 10 ;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    background-color: #ffffff;
+}
+.header{
+    margin-left: calc(45% - 10px);
+    margin-right: calc(45% - 10px);
+    position: absolute;
+    margin-top: 90%;
+    width: 400px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+    align-self: auto;
+    font-family: cursive;
+    color: #fff;
+    text-align: center;
+
+
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px; 
+}
+
+.box1 {
+    width: 350px; 
+    height: 350px; 
+    background-color: #ffffff;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: px;
+    font-size: 24px;
+    padding: 10%;
+    margin-bottom: 20%;    
+    background-image: url("websiteimages/mover1.webp");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.box2 {
+    width: 350px; 
+    height: 350px; 
+    background-color: #4CAF50;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: px;
+    font-size: 24px;
+    padding: 10%;
+    margin-bottom: 20%;    
+    background-image: url("websiteimages/mover2.webp");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.box3 {
+    width: 350px; 
+    height: 350px; 
+    background-color: #ffffff;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: px;
+    font-size: 24px;
+    padding: 10%;
+    margin-bottom: 20%;    
+    background-image: url("websiteimages/mover3.webp");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.box4 {
+    width: 350px; 
+    height: 350px; 
+    background-color: #ffffff;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: px;
+    font-size: 24px;
+    padding: 10%;
+    margin-bottom: 20%;    
+    background-image: url("websiteimages/mover4.webp");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.box5 {
+    width: 350px; 
+    height: 350px; 
+    background-color: #4CAF50;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: px;
+    font-size: 24px;
+    padding: 10%;
+    margin-bottom: 20%;    
+    background-image: url("websiteimages/mover5.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}

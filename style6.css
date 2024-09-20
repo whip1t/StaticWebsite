@@ -1,0 +1,119 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping to create two rows */
+    justify-content: space-between; /* Space out boxes */
+    padding: 20px;
+}
+
+.header{
+    margin-left: calc(45% - 10px);
+    margin-right: calc(45% - 10px);
+    position: absolute;
+    margin-bottom: 50px;
+    width: 400px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+    align-self: auto;
+    font-family: cursive;
+    color: #fff;
+    text-align: center;
+
+
+}
+.box {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    border: 2px solid #fff;
+    position: relative;
+    border-radius: 8px;
+    text-align: center;
+    padding: 20px;
+    margin: 10px; /* Space between boxes */
+    flex: 1 1 calc(40% - 20px); /* Adjust width based on the container */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+.box1 { background-color: #ffffff;
+    position: relative;
+    width: 50VW;
+    height: 50vh;
+    background-image: url("websiteimages/L92991000000000-01-600x600.webp");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+} /* Red */
+.box2 { background-color: #ffffff;
+position: relative;
+background-image: url("websiteimages/Strobe.webp");
+background-size:contain;
+background-repeat: no-repeat;
+background-position: center;
+} /* Blue */
+.box3 { background-color: #ffffff;
+position: relative;
+background-image: url("websiteimages/elation-protron-3k-angle-view-1474467039.jpg");
+background-size:contain;
+background-repeat: no-repeat;
+background-position: center;
+ } /* Yellow */
+    
+.box4 { background-color: #ffffff;
+position: relative;
+    width: 50VW;
+    height: 50vh;
+    background-image: url("websiteimages/Strobe3.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+ } /* Orange */
+.box5 { background-color: #ffffff;
+    position: relative;
+    margin-bottom: 2vh;
+    width: 50VW;
+    height: 50vh;
+    background-image: url("websiteimages/TECHNO-STROBE-168_b260cffc-5097-4706-97bf-e33d1459ee0f.webp");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+} /* Purple */
+.box6 { background-color: #ffffff; 
+    position: relative;
+    margin-bottom: 2vh;
+    width: 50VW;
+    height: 50vh;
+    background-image: url("websiteimages/strobeblizzard.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+} /* Teal */
+.box7 { background-color: #ffffff;
+    position: relative;
+    margin-bottom: 2vh;
+    width: 50VW;
+    height: 50vh;
+    background-image: url("websiteimages/djshocker strobe2.jpg");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    
+}
+
+.box8 { background-color: #ffffff;
+    position: relative;
+    margin-bottom: 2vh;
+    width: 50VW;
+    height: 50vh;
+    background-image: url("websiteimages/Strobe2.webp");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    
+} /* Purpl
