@@ -26,7 +26,7 @@
 
 
 }
-.box1 { background-color: #f44336;
+.box1 { background-color: #ffffff;
     margin-top: 15%;
     width: 800px;
     height: 800px;
@@ -40,10 +40,12 @@
 } 
 
 .box2{
-    background-color: #2196F3;
+    background-color: #ffffff;
     width: 1200px;
     height: 400px;
     position: flex;
     margin-left: 29%;
     margin-bottom: 15%;
+    color: black;
+    font-size: 33px;
 }

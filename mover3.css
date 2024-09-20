@@ -24,6 +24,7 @@
     text-align: center;
 
 
+
 }
 .box1 { background-color: #ffffff;
     margin-top: 15%;
@@ -32,7 +33,7 @@
     position: flex;
     margin-left: calc(30% - 20px);
     justify-content: center;
-    background-image: url("websiteimages/Strobe3.jpg");
+    background-image: url("websiteimages/mover3.webp");
     background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -47,4 +48,5 @@
     margin-bottom: 15%;
     color: black;
     font-size: 33px;
+
 }

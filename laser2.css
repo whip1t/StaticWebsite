@@ -24,15 +24,16 @@
     text-align: center;
 
 
+
 }
-.box1 { background-color: #ffffff;
+.box1 { background-color: #f44336;
     margin-top: 15%;
     width: 800px;
     height: 800px;
     position: flex;
     margin-left: calc(30% - 20px);
     justify-content: center;
-    background-image: url("websiteimages/Strobe3.jpg");
+    background-image: url("websiteimages/laser3.webp");
     background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
